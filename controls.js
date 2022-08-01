@@ -24,7 +24,6 @@ class Controls{
                     this.reverse=true;
                     break;
             }
-            console.table(this )
         }
         document.onkeyup=(event)=>{
             switch (event.key){
